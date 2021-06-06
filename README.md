@@ -1,1 +1,4 @@
-# star_wars_analysis
+# Star Wars Analysis
+
+Fun way to practice data science
+
