@@ -46,6 +46,7 @@ dependencies:
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libffi=3.3=he6710b0_2
   - libgcc-ng=9.1.0=hdf63c60_0
+  - libgfortran-ng=7.3.0=hdf63c60_0
   - libpng=1.6.37=hbc83047_0
   - libsodium=1.0.18=h7b6447c_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
@@ -100,6 +101,8 @@ dependencies:
   - qtconsole=5.0.3=pyhd3eb1b0_0
   - qtpy=1.9.0=py_0
   - readline=8.1=h27cfd23_0
+  - scipy=1.6.2=py38had2a1c9_1
+  - seaborn=0.11.1=pyhd3eb1b0_0
   - send2trash=1.5.0=pyhd3eb1b0_1
   - setuptools=52.0.0=py38h06a4308_0
   - sip=4.19.13=py38he6710b0_0
