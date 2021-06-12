@@ -8,4 +8,6 @@ dependencies:
   - pandas=1.2.4
   - scipy=1.6.2
   - seaborn=0.11.1=pyhd3eb1b0_0
+  - numpy=1.20.2=py38h4b4dc7a_0
+  - nltk=3.6.2=pyhd3eb1b0_0
 #prefix: /opt/anaconda3/envs/star_wars_analysis_env
