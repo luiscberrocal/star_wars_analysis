@@ -48,7 +48,7 @@ def parse_paragraph_sep(paragraphs, **kwargs):
     character_regexp = re.compile(r'(?P<character>(?:(?:[A-Z\-0-9]{2,})(?:\s|\:)?)+)')
     character_lines = dict()
     for p_num, content in paragraphs.items():
-        if ':' in content['lines'][0]:
+        if len(content['lines']) > 0 and ':' in content['lines'][0]:
             line_parts = content['lines'][0].split(':')
             match = character_regexp.match(line_parts[0])
             if match:
