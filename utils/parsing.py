@@ -44,6 +44,21 @@ def parse_paragraphs(paragraphs, **kwargs):
             #print(content['lines'])
     return actor_lines
 
+def parse_paragraph_sep(paragraphs, **kwargs):
+    character_regexp = re.compile(r'(?P<character>(?:(?:[A-Z\-0-9]{2,})(?:\s|\:)?)+)')
+    character_lines = dict()
+    for p_num, content in paragraphs.items():
+        if ':' in content['lines'][0]:
+            line_parts = content['lines'][0].split(':')
+            match = character_regexp.match(line_parts[0])
+            if match:
+                character_lines[p_num] = dict()
+                character_lines[p_num]['actor'] = match.group('character')
+                content['lines'] = line_parts[1:]
+                content['lines'][0] = content['lines'][0].strip()
+                character_lines[p_num]['lines'] = content['lines'].copy()
+                #character_lines[p_num]['lines'].pop(0)
+    return character_lines
 
 def build_dialogue_dict(character_lines):
     df_dict = dict()
