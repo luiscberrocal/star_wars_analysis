@@ -3,6 +3,8 @@ from time import time, sleep
 
 def calculate_elapsed(start):
     """
+    from time import time
+
     start = time()
     sleep(4)
     elapsed, units = calculate_elapsed(start)
