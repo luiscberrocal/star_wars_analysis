@@ -1,5 +1,5 @@
 today's talk is very controversial okay
-you're not gonna get a cardiologist
+you're not going to get a cardiologist
 talking about not eating and fasting so
 this is the unusual but this is breaking
 ground because we are always looking for new
@@ -52,7 +52,7 @@ fasted for mental clarity so do you get
 mental clarity when you fast well he
 certainly did and yet the prevailing
 wisdom is that when you're fast oh I'm
-gonna get sleepy I'm gonna get tired I
+going to get sleepy I'm going to get tired I
 need energy and eat this energy bars
 there's those little drinks energy
 drinks and when you drink that you're
@@ -126,8 +126,8 @@ nutritious meal of the day is the meal
 that you have that's it end of story
 but if you want to create a special
 breakfast meal
-you're gonna develop a cereal and you're
-gonna say this is special breakfast food
+you're going to develop a cereal and you're
+going to say this is special breakfast food
 almost sounds like dog food right
 create this food for the dogs now you
 got a special food for breakfast you
@@ -222,12 +222,12 @@ sugar just went down down down down down
 your energy down went downtown that
 we'll be dead in 24 hours because you're
 going to your cam and you'll just crawl
-in and you just gonna get terrible
+in and you just going to get terrible
 because Nature doesn't give you any way
 to come back or there's been no food for
-24 hours I'm just gonna crawl here I
+24 hours I'm just going to crawl here I
 have no energy I have no nothing I'm
-just gonna crawl and die but no that
+just going to crawl and die but no that
 does not happen to you fasting doesn't
 kill people and in fact I asked you to
 fast all the time and I asked you to
@@ -251,7 +251,7 @@ digest that food and then you get a
 little excess so eating is an energy
 consuming activity but most of us don't
 think of it I read you just in that all
-that eating is gonna go right in and do
+that eating is going to go right in and do
 me all that good a lot of energy that
 goes into it
 eating is dangerous
@@ -260,9 +260,9 @@ a while when you donate Nature has put
 into you a biochemistry so let's let's
 just dive right into that biochemistry a
 little bit so the first thing that's
-gonna happen is that you stop eating in
-the first 12 hours your body's gonna say
-hmm no food coming out it's gonna wipe
+going to happen is that you stop eating in
+the first 12 hours your body's going to say
+hmm no food coming out it's going to wipe
 up all the glycogen that is in your
 liver and in your muscles that's a
 normal process it's going to use
@@ -283,11 +283,11 @@ you store in the form of fat and that
 fat should be utilized now so for the
 first 12 hours I'm not going to use the
 fact I'm going to use up my glycogen
-stores how am I gonna feel I'm gonna
+stores how am I going to feel I'm going to
 feel okay
-unless I'm a junkie then I'm gonna want
+unless I'm a junkie then I'm going to want
 to eat you know that's junk enos because
-your sugar will never drop I'm gonna say
+your sugar will never drop I'm going to say
 that again your sugar will never drop
 you can fast for seven days your blood
 sugar will come down but you will not
@@ -305,7 +305,7 @@ come from comes from protein but it's
 not the protein in the muscles protein
 is always being turned over in your body
 but this time the protein that's
-normally gonna turn over turns into blue
+normally going to turn over turns into blue
 so your glucose level is maintained for
 another 12 hours or so during this next
 12 hours as a small increase in ketosis
@@ -368,8 +368,8 @@ actually starts around 18 hours and
 gradually goes up up up up up up
 so by 24 hours you have some ketones
 maybe 10 15 % of your entire energy
-source is now gonna be ketones how are
-you gonna feel with ketones just fine no
+source is now going to be ketones how are
+you going to feel with ketones just fine no
 problem you feel you feel okay because
 ketones are giving you all the energy
 that you need then let's say another 12
@@ -407,7 +407,7 @@ its insulin because I told you instant
 holds the key to opening up the fence
 doors so you want to utilize your fat
 stores you have to drop your insulin
-levels now how am I gonna drop your fill
+levels now how am I going to drop your fill
 your insulin is right now there's only
 one way for me to drop your insulin
 levels and that's to put you on a
@@ -445,13 +445,13 @@ replacement but type 2 diabetics already
 have a high insulin level and they have
 insulin resistance so the instant is
 already high and now you're giving them
-more insulin and that is only gonna hurt
+more insulin and that is only going to hurt
 the patient even more but you're a 1 C
 would look better and your glucose will
 be lower but show me the data that your
-survival is gonna be paralyzed show me
-that you're gonna get less sales Imus
-show me that you're gonna get less
+survival is going to be paralyzed show me
+that you're going to get less sales Imus
+show me that you're going to get less
 inflammation in your body coronary
 artery disease
 rates it's all about the insulin guys is
@@ -476,7 +476,7 @@ level down I don't have a drug to give
 you to bring your insulin level down but
 fasting will bring your instant level
 down because if you don't eat you're not
-going to make insulin now what's gonna
+going to make insulin now what's going to
 happen is that as your instant level
 drops and it's nice and low your body
 will become sensitive to the insulin
@@ -487,12 +487,12 @@ going to respond to this so after you
 eat in a normal state you produce a lot
 of incident let's say now that you've
 been down for a good period of time
-let's say I'm gonna give an example 24
+let's say I'm going to give an example 24
 hours your insulin levels have been low
 now you eat that next meal you're only
-gonna make this much insulin you can
+going to make this much insulin you can
 make a much less amount of insulin so
-your body is gonna deal with that meal
+your body is going to deal with that meal
 differently then had you eaten in a fed
 state so eating after a fast is
 metabolized totally different than
@@ -536,7 +536,7 @@ the same thing that you are you not
 supposed to do that so you're supposed
 to eat eat when the food is available
 which is usually once a day now let's
-say what other benefit am I gonna get
+say what other benefit am I going to get
 besides the insulin and utilizing the
 fact well the body says that okay this
 poor person hasn't had a kill today so
@@ -553,7 +553,7 @@ you start feeling better more
 bushy-tailed bright-eyed because you're
 looking for your next kill because if
 you walk out there with your eyes how
-droopy you're gonna see the kill
+droopy you're going to see the kill
 the deal will roll walk right by you and
 you won't have any energy to chase it
 but now you full up you pumped up your
@@ -567,7 +567,7 @@ producing a hormone that goes to your
 brain and tells your brain switch on and
 you actually make new brain cells you
 actually make new brain cells show me a
-drug that's gonna make new brain cells
+drug that's going to make new brain cells
 so in a fasting situation make new brain
 cells because nature wants to teach you
 that the cell you got into the situation
@@ -594,7 +594,7 @@ it's a growth hormone that makes your
 skin matter that replaces the dead parts
 better and you muscles grow so your
 muscles actually grow so you do you do
-10 reps you're gonna put on more muscle
+10 reps you're going to put on more muscle
 than if your growth hormone is low
 growth hormone is low you could be
 pumping iron all day long and you'll
@@ -627,7 +627,7 @@ when you're fasting so growth home and I
 told you about 20 24 to 48 hours if you
 really want to get the full benefit of
 growth hormone now there's a condition
-called etapa G I'm gonna explain to a
+called etapa G I'm going to explain to a
 toughie G is a tompa G starts actually
 at about 18 hours and then gradually
 increases and it's maximum at 3 days it
@@ -659,7 +659,7 @@ in it but in the course of time those
 cells the intracellular organelles some
 of them become redundant there's protein
 lying around this whenever this work
-there's gonna be garbage
+there's going to be garbage
 so there are old intracellular
 organelles and some proteinaceous
 materials that are just lying on in the
@@ -732,7 +732,7 @@ you it was good to study with brain stem
 cells and it still is for the reason
 that you need to harness nature's way of
 giving your stem cells you want to stem
-cell transplant right now you're gonna
+cell transplant right now you're going to
 fast it's the fastest way to increase
 your stem cells so these stem cells come
 out of the bone marrow
@@ -745,7 +745,7 @@ are a younger better more resilient
 person than you were before and this is
 all been documented over and over again
 but there's no industry that's
-gonna support me because there's no
+going to support me because there's no
 financial gain if you get better and
 younger and live longer because there's
 no one there to make money out of no one
@@ -764,7 +764,7 @@ mobilization that occurs and to get the
 maximum benefit of that you can't just
 do you know overnight fast no you really
 need to fast because for the bone marrow
-to say I'm gonna come in and replace you
+to say I'm going to come in and replace you
 got to really have reached that point of
 replacement so you can't you can't speed
 it up either so the question is can I do
@@ -787,11 +787,11 @@ the studies done in Boston at the
 University showed that your lifetime
 probability of getting cancer is reduced
 by more than 70% some studies even
-higher because the cells that are gonna
+higher because the cells that are going to
 die off in this date of the fast of the
 real cancer cells because your cancer
 cells look you don't do a PET scan on
-you I'm gonna give you a radioactive
+you I'm going to give you a radioactive
 materials of glucose in it oh excuse me
 the glucose is really low and the
 insulin level is very low so the
@@ -802,12 +802,12 @@ about cancer for a second
 so the studies have been done and if you
 fast a person only for 36 hours that's
 it and then give them chemotherapy in
-that state they're gonna tolerate the
-chemotherapy better they're gonna have
+that state they're going to tolerate the
+chemotherapy better they're going to have
 less side effects from the chemotherapy
-it's gonna be death of cancer cells and
+it's going to be death of cancer cells and
 your normal cells are more resilient now
-and you're gonna get less death of your
+and you're going to get less death of your
 normal cells you see what I'm saying
 so what happens when you're fasting your
 normal cells become more resilient so
@@ -833,7 +833,7 @@ currently in fashion you get admitted to
 the hospital I'm making your NPO I'll
 put any fluids on you I'll give you a
 make you NPO so even if you do farm at
-you're not gonna aspirate you know how
+you're not going to aspirate you know how
 much aspiration is here in the hospital
 over here in pneumonia and all that from
 aspirin is terrible because I'm forced
@@ -977,8 +977,8 @@ they want to go running you want to go
 to the gym they feel wonderful so you
 got to get over that hump if you really
 want to do that tap over fast you have
-to know that I'm gonna face a problem
-on the second day is gonna be hardest
+to know that I'm going to face a problem
+on the second day is going to be hardest
 third fourth fifth day after better so
 who should do the wrong fast and who
 should just do intermittent fasting so
@@ -994,7 +994,7 @@ diabetic you don't want diseases of
 modern man then start eating less
 frequently start learning how to eat
 once a day or twice a day in a six-hour
-window period so if you're gonna have
+window period so if you're going to have
 lunch at 1 o'clock
 you should have dinner at 6 or 7 o'clock
 and that's it no snacking in between
@@ -1159,7 +1159,7 @@ prepares your DNA makes your telomeres
 less short so they stay nice and long
 and you know that telomeres are very
 important right because the longer they
-are the longer you gonna live apoptosis
+are the longer you going to live apoptosis
 apoptosis is cell programmed death of
 the cells so it controls that clearance
 of senescence cells that's a pop that's
@@ -1419,7 +1419,7 @@ but there's a lot of other people out
 there also doing anti-aging but I'm a
 different anti-aging kind of doctor I do
 more naturally and I know the science
-behind it so I'm not gonna tell you to
+behind it so I'm not going to tell you to
 go and you know take the special cream
 and put it on you and eat the special
 concoction because how natural is all
@@ -1459,7 +1459,7 @@ you eat meat or eating vegetables it
 comes with everything in it so your adek
 will get absorbed with the natural fat
 you need it you need it and that's how
-it's gonna get absorb because that's how
+it's going to get absorb because that's how
 it was two and a half million years ago
 who are you to try to change this in the
 last millisecond of your life in your
@@ -1550,7 +1550,7 @@ to my office er a vast opinion
 how come it's terrible living in Florida
 all of us to fear it's terrible so
 obviously when she does her refeeding
-she's gonna get phosphate deficiency
+she's going to get phosphate deficiency
 because what happens all of a sudden
 stem cells going if they need building
 blocks and one of the building blocks is
@@ -1672,7 +1672,7 @@ blood pressure medication you should
 take everything else but you measure
 your blood pressure you gotta take
 things into your own hands because
-nobody is gonna do it except you you
+nobody is going to do it except you you
 must take control of your life we have
 become a society where we go to the
 doctor and say fix me no you got to do
@@ -1694,7 +1694,7 @@ clinic that you can walk into that's why
 I have of my walking clinic right people
 can walk in and yeah the matter that
 might have to wait back please they're
-gonna be seen and if I'm tied up at
+going to be seen and if I'm tied up at
 least my practitioners will take care of
 the patients so your blood pressure will
 drop because you become volume depleted
@@ -1769,7 +1769,7 @@ group 50% less cardiovascular disease
 and greater than 90 percent no diabetes
 just by cutting calories down our food
 is so full of calories the more calories
-you eat the more disease you're gonna
+you eat the more disease you're going to
 get this absolutely know that so now the
 NIH they don't want to be outdone so
 they did a study they also did 30%
@@ -1821,7 +1821,7 @@ this talk I'll put my slides in there
 and then post it on to YouTube Galen
 foundation wants to continue doing stuff
 like this
-so my next one I'm gonna talk about all
+so my next one I'm going to talk about all
 sorts of things including sleep over the
 whole topic on sleep they're not being
 who improve your sleep this so I want to
