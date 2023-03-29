@@ -135,3 +135,5 @@ output/
 .DS_Store
 cache/
 data/earthquakes-2000-01-01-2023-02-12.csv
+data/repository_data.csv
+data/github_dataset.csv
