@@ -134,3 +134,4 @@ output/
 
 .DS_Store
 cache/
+data/earthquakes-2000-01-01-2023-02-12.csv
